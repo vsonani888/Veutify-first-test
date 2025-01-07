@@ -17,12 +17,12 @@
           <v-list-item
             prepend-avatar="https://www.webwise.ie/wp-content/uploads/2020/12/IMG1207.jpg"
             subtitle="pepepopo@chungus.com"
-            title="amongus"
+            title="verysusman123"
           ></v-list-item>
         </v-list>
 
         <v-divider></v-divider>
-
+        
         <V-list density = "compact" nav>
             <v-list-item 
                 prepend-icon="mdi-image" 
